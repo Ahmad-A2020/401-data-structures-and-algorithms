@@ -1,6 +1,0 @@
-Main.java
- Main
-Node/NodeT.java
- Node.NodeT
-Queue/QueueLinkedLIst.java
- Queue.QueueLinkedLIst
